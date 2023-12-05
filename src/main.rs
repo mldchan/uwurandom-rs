@@ -6,6 +6,6 @@
 mod uwurandom;
 
 fn main() {
-    let uwu = uwurandom::uwurandom::generate(10000000000);
+    let uwu = uwurandom::uwurandom::generate(100000);
     println!("{}", uwu);
 }
