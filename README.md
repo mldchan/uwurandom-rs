@@ -4,16 +4,5 @@ A Rust version of [Bread's uwurandom.php](https://github.com/BreadTeleporter/uwu
 
 ## Usage
 
-Build:
+TODO
 
-```
-cargo build --release
-```
-
-Run:
-
-```
-./binary
-OR
-cargo run --release
-```

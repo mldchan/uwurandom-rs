@@ -1,5 +1,5 @@
 [package]
-name = "uwurandom-rs"
+name = "mldkyt-uwurandom-rs"
 description = "uwurandom in Rust"
 version = "0.1.0"
 edition = "2021"
