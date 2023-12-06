@@ -1,7 +1,7 @@
 [package]
 name = "mldkyt-uwurandom-rs"
 description = "uwurandom in Rust"
-version = "0.1.01"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 
